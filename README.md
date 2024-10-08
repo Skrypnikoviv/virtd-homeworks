@@ -63,8 +63,10 @@ https://hub.docker.com/r/ilko88/custom-nginx
 ## Ответ:
 
 ![image](https://github.com/user-attachments/assets/6c11c027-e1a0-4e2d-ae96-04d6ed4318fc)
+
 С комбинацией клавишь отправился сигнал SIGINT на остоновку контейнера
 ![image](https://github.com/user-attachments/assets/38961dd4-be9b-4b9a-afc4-0cdd5125b5b9)
+
 Службу усадили на 81 порт а на хосте проброс на 80
 ## Задача 4
 
