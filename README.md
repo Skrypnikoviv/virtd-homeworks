@@ -68,6 +68,8 @@ https://hub.docker.com/r/ilko88/custom-nginx
 ![image](https://github.com/user-attachments/assets/38961dd4-be9b-4b9a-afc4-0cdd5125b5b9)
 
 Службу усадили на 81 порт а на хосте проброс на 80
+![image](https://github.com/user-attachments/assets/a092f2a3-a6a6-43fc-acd6-eef9154453e8)
+
 ## Задача 4
 
 
