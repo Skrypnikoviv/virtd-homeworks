@@ -81,6 +81,13 @@ https://hub.docker.com/r/ilko88/custom-nginx
 
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+## Ответ:
+
+![image](https://github.com/user-attachments/assets/e1dc403a-7993-4b93-b5db-6748480e6578)
+
+![image](https://github.com/user-attachments/assets/38c4853e-a488-408a-b548-01a6f685e5f0)
+
+![image](https://github.com/user-attachments/assets/3a905a0c-a3b2-4b38-b5dd-9e5c43efe43a)
 
 
 ## Задача 5
