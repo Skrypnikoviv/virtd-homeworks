@@ -60,6 +60,9 @@ https://hub.docker.com/r/ilko88/custom-nginx
 12. Удалите запущенный контейнер "custom-nginx-t2", не останавливая его.(воспользуйтесь --help или google)
 
 В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод.
+## Ответ:
+
+![image](https://github.com/user-attachments/assets/6c11c027-e1a0-4e2d-ae96-04d6ed4318fc)
 
 ## Задача 4
 
