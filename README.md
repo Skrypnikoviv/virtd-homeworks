@@ -142,7 +142,7 @@ services:
 ## Ответ:
 
 ![image](https://github.com/user-attachments/assets/1a2d4033-c1f9-43e1-9307-2657b352d81c)
-ридоется предпочтения файлу compose.yaml 
+отдоется предпочтения файлу compose.yaml 
 
 ![image](https://github.com/user-attachments/assets/c64f06c5-d232-4918-9cbf-777a3b8102dd)
 
@@ -151,6 +151,7 @@ services:
 ![image](https://github.com/user-attachments/assets/11cb8507-1abc-4302-a36d-e40a3c1e10b2)
 
 ![image](https://github.com/user-attachments/assets/a4c082d1-c02e-443a-b190-374f793c30c2)
+
 Ругается на портейнер что его нет в монифесте, предлогает исправить и удалить лишнее 
 
 ```
