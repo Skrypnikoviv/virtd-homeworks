@@ -64,6 +64,8 @@ https://hub.docker.com/r/ilko88/custom-nginx
 
 ![image](https://github.com/user-attachments/assets/6c11c027-e1a0-4e2d-ae96-04d6ed4318fc)
 
+![image](https://github.com/user-attachments/assets/38961dd4-be9b-4b9a-afc4-0cdd5125b5b9)
+
 ## Задача 4
 
 
