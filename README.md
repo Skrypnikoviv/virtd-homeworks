@@ -80,8 +80,15 @@ https://github.com/Skrypnikoviv/shvirtd-example-python.git
 5. (Необязательная часть) Дополнительно настройте remote ssh context к вашему серверу. Отобразите список контекстов и результат удаленного выполнения ```docker ps -a```
 6. В качестве ответа повторите  sql-запрос и приложите скриншот с данного сервера, bash-скрипт и ссылку на fork-репозиторий.
 ## Ответ
+```
+#!/bin/bash
+git clone https://github.com/Lex-Chaos/shvirtd-example-python.git ./opt
+cd opt
+docker compose up -d
+docker build -t python -f Dockerfile.python .
 
-![image](https://github.com/user-attachments/assets/b858bfa7-2cee-4a00-97c2-b9b7776029d0)
+```
+
 
 ## Задача 5 (*)
 1. Напишите и задеплойте на вашу облачную ВМ bash скрипт, который произведет резервное копирование БД mysql в директорию "/opt/backup" с помощью запуска в сети "backend" контейнера из образа ```schnitzler/mysqldump``` при помощи ```docker run ...``` команды. Подсказка: "документация образа."
