@@ -85,7 +85,6 @@ https://github.com/Skrypnikoviv/shvirtd-example-python.git
 git clone https://github.com/Lex-Chaos/shvirtd-example-python.git ./opt
 cd opt
 docker compose up -d
-docker build -t python -f Dockerfile.python .
 
 ```
 ![image](https://github.com/user-attachments/assets/08657789-d262-42bd-9941-02cbd821b795)
